@@ -1,0 +1,1 @@
+for %%j in (*.tif) do "C:\Program Files (x86)\ISRU\bin\mr_file.exe" -T %%j %%~nj._tif
